@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "860427516991",
+    "project_id": "graduation-plans-to-do",
+    "storage_bucket": "graduation-plans-to-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860427516991:android:813b8f083a420d13b20c8a",
+        "android_client_info": {
+          "package_name": "com.example.mytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860427516991-2f4k3tgri59edv356b4edut2v92a45tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1k1rh_QT1kt5XCIfbUI3rSXf_wwu7ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860427516991-2f4k3tgri59edv356b4edut2v92a45tk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860427516991-muc7sutcunh77ugil7t0g6c08oh77o6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mytest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
